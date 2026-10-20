@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "pinia": "^4.1.0",
+    "vue-router": "^5.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^10.13.0",
+    "prettier": "^3.9.10"
+  }
+}
